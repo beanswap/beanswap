@@ -1,0 +1,2 @@
+layout: none
+permalink: .well-known/pki-validation/CBFF32AF40AB0512A204E143A2AB561D.txt
